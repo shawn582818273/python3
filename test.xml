@@ -1,0 +1,52 @@
+<Transaction>
+  <Name>S10F5</Name>
+  <Description></Description>
+  <ReplyExpected>True</ReplyExpected>
+  <Stream>10</Stream>
+  <Function>5</Function>
+  <Primary>
+    <Item>
+      <Name>L</Name>
+      <Description></Description>
+      <Format>List</Format>
+      <Item>
+        <Name>TID</Name>
+        <Description></Description>
+        <Format>ASCII</Format>
+        <Value>0</Value>
+      </Item>
+      <Item>
+        <Name>L</Name>
+        <Description></Description>
+        <Format>List</Format>
+        <Item>
+          <Name></Name>
+          <Description></Description>
+          <Format>ASCII</Format>
+          <Value>啦封建士大夫</Value>
+        </Item>
+        <Item>
+          <Name></Name>
+          <Description></Description>
+          <Format>ASCII</Format>
+          <Value>TEXT Message002</Value>
+        </Item>
+        <Item>
+          <Name></Name>
+          <Description></Description>
+          <Format>ASCII</Format>
+          <Value>TEXT Message003</Value>
+        </Item>
+      </Item>
+    </Item>
+    <UnitName>Line05-8MMAO05</UnitName>
+  </Primary>
+  <Secondary>
+    <Item>
+      <Name>ACKC10</Name>
+      <Description>Acknowledge Code</Description>
+      <Format>ASCII</Format>
+      <Value></Value>
+    </Item>
+  </Secondary>
+</Transaction>
